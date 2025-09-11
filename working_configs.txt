@@ -26,7 +26,6 @@ vmess://f6ba9e5a-711c-496f-be60-ac5464dec2b8@2.58.87.221:46628?encryption=auto&s
 vmess://ff130210-4636-5caf-8259-09058c55bae8@205.185.116.20:8080?encryption=auto&security=none&fp=&type=tcp#@XrayTurbo%F0%9F%94%A5
 vmess://30a5ba37-cfbd-4b27-d266-b52562cfbc44@205.198.125.160:10901?encryption=auto&security=none&fp=&type=ws&path=/ednovas#@XrayTurbo%F0%9F%94%A5
 vmess://984429ed-3959-4022-e248-cbcb19c96f9a@206.119.191.20:7998?encryption=auto&security=none&fp=&type=tcp#@XrayTurbo%F0%9F%94%A5
-
 vmess://984429ed-3959-4022-e248-cbcb19c96f9a@206.119.191.9:7998?encryption=auto&security=none&fp=&type=tcp#@XrayTurbo%F0%9F%94%A5
 vmess://2c981164-9b93-4bca-94ff-b78d3f8498d7@209.126.84.189:443?encryption=auto&security=none&fp=&type=ws&path=/vmessws&host=209.126.84.189#@XrayTurbo%F0%9F%94%A5
 vmess://23bdf6df-c482-46d0-c0f4-5a98d534ea11@38.54.33.103:45979?encryption=auto&security=none&fp=&type=ws&path=/test#@XrayTurbo%F0%9F%94%A5
@@ -54,6 +53,5 @@ vmess://5a89386a-827b-4f54-8778-2f1b5122c6ef@82.197.69.131:39674?encryption=auto
 vmess://03fcc618-b93d-6796-6aed-8a38c975d581@91.134.8.101:443?encryption=auto&security=tls&sni=fapeng.org&fp=&type=ws&path=linkvws&host=fapeng.org#@XrayTurbo%F0%9F%94%A5
 vmess://d0dc66c9-e3b1-4e2e-acbc-cc2bbc909dc2@91.99.157.193:2052?encryption=auto&security=none&fp=&type=tcp#@XrayTurbo%F0%9F%94%A5
 vmess://c04c3b34-70fd-4fec-963e-c12d09f36bef@95.164.4.88:80?encryption=auto&security=none&fp=&type=ws&path=/vmess/&host=pq-brazil1.09vpn.com#@XrayTurbo%F0%9F%94%A5
-
 vmess://8e34e170-13ae-4892-9d20-05962acc9f84@[2001:bc8:32d7:302::10]:44579?encryption=auto&security=none&fp=&type=ws#@XrayTurbo%F0%9F%94%A5
 vmess://1c9f9df5-cc61-436c-a3c4-a26563e53a5b@t.cnmjcn.cyou:16622?encryption=auto&security=none&fp=&type=ws&path=/&host=50eaf4fc42b75d4abd5c6ffbbf99d544.mobgslb.tbcache.com#@XrayTurbo%F0%9F%94%A5
