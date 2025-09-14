@@ -1,7 +1,5 @@
-vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2095?encryption=none&security=none&type=ws&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&path=%2F%3Fed%3D2048#%40XrayTurbo%F0%9F%94%A5
 vless://962e3db1-8256-4fed-96c4-59bd9e449bff@wardennetworkk.mhrnet.com:55378?encryption=none&security=none&type=tcp&headerType=none#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933151854967352.copenhagen-drc-tusabx.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://9ab2c75b-cbec-4f65-9eab-061e7ab07820@78.157.59.164:22256?encryption=none&security=none&type=ws&host=ICcQy.divarcdn.com%2CWLnWE.snappfood.ir%2CegBLe.yjc.ir%2CfDl1g.digikala.com%2C3X9yY.tic.ir&path=%2FZarin4#%40XrayTurbo%F0%9F%94%A5
 vless://f3be6c78-46cd-4409-8ed3-8d36bef0f86c@195.201.32.169:24199?encryption=none&security=none&type=tcp&headerType=none#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931501605817853.lahijan-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929396024898748.lisbon-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
@@ -12,17 +10,14 @@ vless://965416e8-326c-49a5-94d9-f99daed20455@46.101.127.35:17168?encryption=none
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934373618904872.prague-drc-tusacae.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929692855682011.lisbon-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928896969382988.madrid-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://f282b878-8711-45a1-8c69-5564172123c1@104.21.42.42:80?encryption=none&security=none&type=ws&host=aio.zipzap.biz.id&path=%2Faioproxybot%2F146.190.192.43-80#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930133854419945.bandar-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930359207602168.dublin-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@94.131.14.195:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638928896969381974.madrid-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://18ff277a-3b9a-46a0-842e-290f2b0661d2@whatismyipaddress.com:80?encryption=none&security=none&sni=hidden-base-217b.powas74490.workers.dev&type=ws&host=hidden-base-217b.powas74490.workers.dev&path=%2F%3Fed%3D2048#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930176606709418.dezful-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638934373618913594.prague-drc-tusacae.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930287805772573.helsinki-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://1953c1e6-af68-4c60-a6f8-f8194de580f6@172.67.209.105:2052?encryption=none&security=none&type=ws&host=worker-ancient-bonus-70e8.96dc4cc80bfb.workers.dev&path=%2F%3Fed%3D2048#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930382260455538.ahvaz-drc-tusabt.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932756456106424.qazvin-drc-tusabw.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@softmeto.ir:80?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
@@ -31,7 +26,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931428657467505.kish-drc-tusabu.
 vless://b4a4d764-5a3c-437a-a5e0-1c248831dbf9@135.181.38.189:20128?encryption=none&security=none&type=tcp&headerType=none#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927413452765103.abadan-drc-tusabn.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929320863717328.malayer-drc-tusabq.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://9ab2c75b-cbec-4f65-9eab-061e7ab07820@zarin4ii.alireza031.pw:22256?encryption=none&security=none&type=ws&host=ICcQy.divarcdn.com%2CWLnWE.snappfood.ir%2CegBLe.yjc.ir%2CfDl1g.digikala.com%2C3X9yY.tic.ir&path=%2FZarin4#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638927678654211750.rasht-drc-tusabn.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@85.208.110.205:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929750206966997.oslo-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
@@ -47,16 +41,13 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207614557.kish-drc-dcrabj.
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931077057619102.hamedan-drc-tusabu.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207611953.kish-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638931272656129533.malayer-drc-tusabu.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@138.124.52.155:54567?encryption=none&security=none&type=ws&path=%2F54567%2Fmvfkvk%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207613731.kish-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638932639207616704.kish-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://34772e33-4f67-4ca3-9214-b8050ecaea49@167.99.195.231:46054?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
-vless://0fe29ab6-7649-4f88-ba34-18eca76ed8f6@dl4-pl4-cdn.fastfilecdn.org:2052?encryption=none&security=none&type=ws&host=dl4-pl4-cdn.fastfilecdn.org&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://b891257e-e0c3-4e75-9744-226b47a7d70f@188.166.78.72:34641?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://d281e7fb-4c25-4ed1-82a3-13f2b61958c7@146.190.16.205:16301?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.253:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638929259959009857.dezful-drc-tusabq.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://61287fab-6ec6-4e05-aa3f-bcf9a45b76dc@188.114.96.0:2052?encryption=none&security=none&type=ws&host=iANCShq476FCHBlNqkHoapBt8quqmm1wiKLwuCQeMAI.fastroot.ir.&path=%2F%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20----%40VPNTV20%3Fed%3D2052#%40XrayTurbo%F0%9F%94%A5
 vless://2ecc1c66-0808-174c-e51a-5274c1428b3c@zarashop1.ir:80?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638930966405437992.birjand-drc-dcrabj.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://6a2e5e47-7ca3-4217-9e09-b31688e234ef@206.189.124.177:36063?encryption=none&security=none&type=ws&host=speedtest.net&path=%2F#%40XrayTurbo%F0%9F%94%A5
@@ -74,10 +65,8 @@ vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v3.waipdirect.shop:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?encryption=none&security=none&sni=pqh29v4.vetmainconf.shop&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh27v8.vetmainconf.shop:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&host=sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@638933175855053808.warsaw-drc-tusabx.info:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh24v6.vetrkot.com:8880?encryption=none&security=none&sni=pqh24v6.vetrkot.com&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://5c929ec5-5b1e-447a-950c-354c5d1ba1de@informed-location.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN#%40XrayTurbo%F0%9F%94%A5
 vless://491e4f76-42f0-43a7-a987-25072a68d5e4@hopeful-appointment.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh23v5.vetrkot.com:8880?encryption=none&security=none&sni=pqh23v5.vetrkot.com&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.vetrkot.com:8880?encryption=none&security=none&sni=pqh28v5.vetrkot.com&type=grpc#%40XrayTurbo%F0%9F%94%A5
@@ -89,7 +78,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.123:8880?encryption=non
 vless://52adc6ba-b1c7-4541-a594-08fc698be640@grounded-brother.seotoolsforyou.co.uk:80?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v5.waipdirect.shop:8880?encryption=none&security=none&sni=pqh28v5.waipdirect.shop&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://f1fe4963-66f7-4f71-a038-9e07ea6cf20f@creative-computer.oneeat.co:80?encryption=none&security=none&type=ws&path=%2F#%40XrayTurbo%F0%9F%94%A5
-vless://2a2f8790-99ab-4788-985c-0fe5627af2a9@104.16.142.193:8880?encryption=none&security=none&type=ws&host=SomeNotificationsChangeYourLife.EiNetwork.News.&path=Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray-Telegram-EiV2Ray#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v1.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.122:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.109:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
@@ -103,7 +91,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?encryption=non
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.180:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.248:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh38v3.avoipok.shop:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
-vless://44cb3f8c-57a4-4f2b-a0ae-d9121e54a598@ir.fxgoldensignals.com:54567?encryption=none&security=none&type=ws&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&path=%2F54567%2Fmvfkvk#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v7.waipdirect.shop:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.72:8880?encryption=none&security=none&type=grpc#%40XrayTurbo%F0%9F%94%A5
 vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh28v3.waipdirect.shop:8880?encryption=none&security=none&sni=pqh28v3.waipdirect.shop&type=grpc#%40XrayTurbo%F0%9F%94%A5
